@@ -1,5 +1,5 @@
 {
-  "name": "react-native-hockeyapp",
+  "name": "@lotto-nz/react-native-hockeyapp",
   "version": "0.5.0",
   "description": "HockeyApp plugin for React Native supporting Android and iOS.",
   "main": "index.js",
