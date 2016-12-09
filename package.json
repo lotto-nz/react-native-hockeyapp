@@ -21,12 +21,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/slowpath/react-native-hockeyapp"
+    "url": "https://github.com/lotto-nz/react-native-hockeyapp.git"
   },
   "bugs": {
     "url": "https://github.com/slowpath/react-native-hockeyapp/issues"
   },
-  "homepage": "https://github.com/slowpath/react-native-hockeyapp",
+  "homepage": "https://github.com/lotto-nz/react-native-hockeyapp.git",
   "peerDependencies": {
     "react-native": ">= 0.14",
     "invariant": "^2.2.0"
