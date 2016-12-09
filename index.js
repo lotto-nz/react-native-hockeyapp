@@ -17,9 +17,9 @@ module.exports = {
         DeviceUUID: 3,
         Web: 4
     },
-    configure(apiToken, autoSendCrashes, authenticationType, apiSecret, ignoreDefaultHandler) {
+    configure(apiToken, autoSendCrashes, authenticationType, apiSecret) {
         checkInstalled();
-        RNHockeyApp.configure(apiToken, autoSendCrashes || true, authenticationType || 0, apiSecret || '', ignoreDefaultHandler || false);
+        RNHockeyApp.configure(apiToken, autoSendCrashes || true, authenticationType || 0, apiSecret || '');
     },
     start(){
         checkInstalled();
